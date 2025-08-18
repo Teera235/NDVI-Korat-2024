@@ -2,7 +2,7 @@
 
 This project uses **Google Earth Engine (GEE)** and **Google Colab** 
 to calculate NDVI values for croplands in Nakhon Ratchasima, Thailand.  
-Results include animated GIF/MP4 NDVI time-series and summary statistics.
+Results include animated GIF/MP4 NDVI time-series.
 
 ## Features
 - Compute NDVI from Sentinel-2 imagery
@@ -11,9 +11,6 @@ Results include animated GIF/MP4 NDVI time-series and summary statistics.
 ## Folder Structure
 - `notebooks/` : Google Colab notebook code
 - `data/` : Output files (GIF, MP4)
-
-## Requirements
-See `requirements.txt` for Python dependencies.
 
 ## How to run
 1. Open `NDVI_to_GIF.ipynb` in Google Colab
