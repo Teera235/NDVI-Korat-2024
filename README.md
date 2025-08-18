@@ -17,3 +17,8 @@ Results include animated GIF/MP4 NDVI time-series.
 2. Authenticate with Google Earth Engine
 3. Run all cells
 4. Outputs will be saved to `/data`
+
+## NDVI GIF (MP4)
+
+![NDVI Video](data/ndvi_korat_2024.mp4)
+
