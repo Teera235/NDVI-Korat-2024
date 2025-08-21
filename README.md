@@ -20,5 +20,9 @@ Results include animated GIF/MP4 NDVI time-series.
 
 ## NDVI Animation (GIF)
 
+![NDVI GIF](data/korat_ndvi_monthly_2024.gif)
 ![NDVI GIF](ndvi_korat_2024.gif)
+![NDVI GIF](ndvi_korat_2024.gif)
+
+
 
