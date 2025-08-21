@@ -18,7 +18,7 @@ Results include animated GIF/MP4 NDVI time-series.
 3. Run all cells
 4. Outputs will be saved to `/data`
 
-## NDVI Animation (GIF)
+## NDVI preview
 
 ![NDVI GIF](NDVI-Korat-2024/notebooks/data/korat_ndvi_monthly_2024.gif)
 ![NDVI ING](NDVI-Korat-2024/notebooks/data/korat_NDVI_2024.png)
